@@ -33,21 +33,6 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais como:
 
 ---
 
-## ▶️ Como Executar
-
-### Requisitos
-
-- Java 17 ou superior instalado
-- Terminal ou IDE como IntelliJ IDEA, Eclipse ou VS Code
-
-### Executar via terminal
-
-```bash
-javac SudokuGame.java
-java SudokuGame
-```
-
-> Substitua `SudokuGame.java` pelo nome da sua classe principal, se diferente.
 
 ---
 
